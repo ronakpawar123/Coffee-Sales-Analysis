@@ -149,6 +149,7 @@ This project was completed as part of the Data Analytics Internship at Unified M
 
 --------------------------------------------------
 <img width="1615" height="869" alt="Screenshot 2026-03-12 155442" src="https://github.com/user-attachments/assets/8535e1b4-f1ef-454f-ab58-2db196b8451b" />
+<img width="1601" height="902" alt="image" src="https://github.com/user-attachments/assets/649330dd-6a84-4b28-809e-1fb4d957bf1e" />
 <img width="1811" height="452" alt="Screenshot 2026-03-12 162417" src="https://github.com/user-attachments/assets/2fc94fc1-e10c-4a87-a499-50de947796c5" />
 <img width="1857" height="399" alt="Screenshot 2026-03-12 162425" src="https://github.com/user-attachments/assets/41259347-18fd-4eea-8b8d-4a9d38d82b51" />
 <img width="1849" height="920" alt="Screenshot 2026-03-12 162438" src="https://github.com/user-attachments/assets/1dcc5376-b5b5-4e4f-b494-1eb96fd58ee2" />
